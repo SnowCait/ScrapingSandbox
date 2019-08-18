@@ -1,3 +1,3 @@
 # ScrapingSandbox
 
-using AngleSharp;
+using [AngleSharp](https://github.com/AngleSharp/AngleSharp);
